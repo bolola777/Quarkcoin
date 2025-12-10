@@ -1,0 +1,2 @@
+# Quarkcoin
+Quarkcoin
